@@ -1,6 +1,7 @@
---- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/ZehuaMc/Shopgui
+--- # Poggit-CI Manifest. Open the CI at https://github.com/ZehuaMc/Shopgui
 branches:
 - master
-projects: [Shopgui]
+projects:
+  ShopGui:
+    path: ""
 ...
-
